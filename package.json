@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/profoundhub/A4MEANStack/issues"
   },
-  "homepage": "https://github.com/profoundhub/A4MEANStack#readme"
+  "homepage": "https://github.com/profoundhub/A4MEANStack#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
 }
